@@ -1,5 +1,3 @@
----
-
 🔓 Crypto-Drainers Open Source Codes
 
 Venom Drainer Suite: Educational Blockchain Development Framework
@@ -159,7 +157,7 @@ Educators → Use the source code for academic demos and assignments
 
 For documentation, tutorials, and source repositories:
 
-Telegram: @VenomAccessBot | @MoonDevOnSol
+Telegram: t.me/VenomAccessBot | t.me/MoonDevOnSol
 
 Email: stupidmoni@mail.ru (PGP available)
 
